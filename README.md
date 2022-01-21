@@ -2,8 +2,8 @@
 # <p align="center">Nguyễn Thanh Tùng</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/poilioma1234/poilioma1234.github.io">
+	<img src="https://user-images.githubusercontent.com/96612345/150512528-8c00fbec-2b68-4d52-85d3-ef9b11f34f55.png" width = "200" alt="TNT">
 	</a>
 </p>
 

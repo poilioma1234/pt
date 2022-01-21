@@ -108,54 +108,7 @@ namespace TNT
   </tbody>
 </table>
 
-## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
-</p>
-
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
-
-## <p align="center">Repository pin 📌</p>
-
-<p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>

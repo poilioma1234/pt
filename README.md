@@ -12,7 +12,7 @@
 ```C#
 namespace TNT
 {
-    class ngoctienTNT
+    class nguyentung
     {
         static void Main(string[] args)
         {

@@ -112,7 +112,7 @@ namespace NTT
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/poilioma1234/poilioma1234.github.io/blob/main/nt">
 </p>
 
 <hr>

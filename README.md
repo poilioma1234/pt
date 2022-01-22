@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/yunweb/cool/blob/master/images/bianxing.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://github.com/yunweb/cool/blob/master/images/bianxing.gif" alt="Synthwave" height="600" width="500"></p>
 # <p align="center">Nguyễn Thanh Tùng</p>
 
 <p align="center">

@@ -10,9 +10,7 @@
 <h2 align="center">About me</h2>
 
 ```C#
-<p align="center">
-     <a href="https://vasturiano.github.io/3d-force-graph/example/large-graph/"><img width="80%" 
-</p>
+
 namespace NTT
 {
     class nguyentung
@@ -111,7 +109,9 @@ namespace NTT
   </tbody>
 </table>
 
-
+<p align="center">
+     <a href="https://vasturiano.github.io/3d-force-graph/example/large-graph/"><img width="80%" src="http://gist.github.com/vasturiano/02affe306ce445e423f992faeea13521/raw/preview.png"></a>
+</p>
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>

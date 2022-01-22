@@ -24,6 +24,8 @@ namespace NTT
             string School = "THPT Trần Đại Nghĩa"
             string Skills = "Python, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+	    string Criticize = "Chả ai đánh giá con người qua lời nói cả?"
+	    string Quote = "Chả việc gì phải kính trọng người xem thường mình cả!!!"
         }
     }
 }

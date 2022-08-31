@@ -17,14 +17,14 @@ namespace NTT
     {
         static void Main(string[] args)
         {
-            string Name = "Nguyễn Thanh Tùng";
-            string Age = "2004";
-            string Address = "Tây Ninh, Việt Nam";
-            string School = "THPT Trần Đại Nghĩa"
+            string Name = "Nguyễn Tùng";
+            string Age = "!!!!";
+            string Address = "Word";
+            string School = "N"
 	    string Mygoal = "CISO";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
-	    string Criticize = "Chả ai đánh giá con người qua lời nói cả?"
-	    string Quote = "Chả việc gì phải kính trọng người xem thường mình cả!!!"
+            string FamousQuotes = "-.-";
+	    string Criticize = ":))"
+	    string Quote = ":3"
         }
     }
 }
